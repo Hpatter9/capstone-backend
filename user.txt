@@ -1,0 +1,8 @@
+Superuser:
+name: super
+pass: super123
+
+Test user created:
+name: Test
+pass: test!123#
+authtoken: 9e028ad879f305b93cb620304cd9f87b208634a5
