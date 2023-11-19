@@ -1,5 +1,7 @@
 Hello fellow learners!
 
+This is the backend capstone project that showcases our ability to create a reservations sytem API and implement it into a functioning website.
+
 Here are the steps to test and review my project:
 
 1. activate venv
